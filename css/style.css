@@ -151,7 +151,7 @@ nav{
     padding: 71px 0 68px 0;
 }
 
- .benefit .benefit_label{
+ .label{
     display: block;
     margin: 0 auto;
     width: 112px;
@@ -163,7 +163,7 @@ nav{
     color: #ffffff;
 }
 
-.benefit .benefit_header{
+.title{
     margin-top: 38px;
     font-size: 38px;
     font-weight: 700;
